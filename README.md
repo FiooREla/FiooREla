@@ -7,7 +7,8 @@
 </p>
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on CIBERCONT
+- 🔭 I currently working on ELECTROPERU
+- 🔭 I was working at CIBERCONT
 - 🌱 I’m currently studing in Platzi.
 - 😄 I have soft skills
 
